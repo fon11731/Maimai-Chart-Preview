@@ -8,6 +8,10 @@
 
 - 落雪原有内容
 
+## 警告
+
+只供私人使用，如果想部署去原作者[![项目](https://github.com/Pimeng/Maimai-Chart-Preview)]
+
 ## 致谢
 
 - LxnsNetwork
